@@ -5,6 +5,7 @@ ruby "3.1.2"
 
 gem "bootsnap", require: false
 gem "cssbundling-rails"
+gem "devise"
 gem "pg", "~> 1.1"
 gem "puma", "~> 5.0"
 gem "jbuilder"
